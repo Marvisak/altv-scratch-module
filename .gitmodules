@@ -1,0 +1,3 @@
+[submodule "vendors/cpp-sdk"]
+	path = vendors/cpp-sdk
+	url = git@github.com:altmp/cpp-sdk.git
